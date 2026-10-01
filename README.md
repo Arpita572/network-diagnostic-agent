@@ -4,10 +4,7 @@
 > and explains them in plain English — so non-technical users don't need to know
 > what `ping` or `traceroute` even means.
 
-[![Python](https://img.shields.io/badge/Python-3.10+-blue)](https://python.org)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![Status](https://img.shields.io/badge/status-Iter%203%20complete-brightgreen)]()
-[![CS5700](https://img.shields.io/badge/Northeastern-CS%205700-red)]()
+
 
 ---
 
