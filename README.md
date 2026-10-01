@@ -182,9 +182,7 @@ All providers use the same interface — swap models with a single `--model` fla
 ## Setup
 
 ```bash
-# Clone
-git clone https://github.com/Zeglow/network-diagnostic-agent.git
-cd network-diagnostic-agent
+
 
 # Install dependencies
 pip install -r requirements.txt
