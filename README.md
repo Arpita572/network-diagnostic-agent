@@ -333,10 +333,7 @@ Most "AI + networking" projects simply pass raw tool output to ChatGPT and displ
 
 ---
 
-## Team
+## Teams
+ARPITA AGARWAL
+BARLEEN RANDHAWA
 
-**Ashley (Yongqi) Ou** — Agent core, LLM integration (multi-provider), prompt engineering, curl tool, web interface, evaluation framework, project coordination
-
-**Avery (Weiyu) Qiu** — Diagnostic tool wrappers, Docker sandbox, fault injection scripts, CLI interface, demo videos
-
-*CS 5700 Fundamentals of Computer Networking — Northeastern University, Spring 2026*
